@@ -8,6 +8,7 @@ Dashboard e contituida primeiramente pro cadastro de cliente e cadastro de Usuar
 2° - Crie o arquivo .env
 
 3° - Adicione o codigo ao arquivo .env
+
         APP_NAME=Laravel
         APP_ENV=local
         APP_KEY=base64:AM5Oue1nS96nKxsDebiJ+eWNZAtGezE2IQjl3J4VBUo=
