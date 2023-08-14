@@ -4,7 +4,9 @@
 Dashboard e contituida primeiramente pro cadastro de cliente e cadastro de Usuarios, com definições de Level, ADMIN, SUPER ADMIN e USER
 
 1° - Clone o projeto para sua area de projetos.
-2° - Crie o arquivo .env 
+
+2° - Crie o arquivo .env
+
 3° - Adicione o codigo ao arquivo .env
         APP_NAME=Laravel
         APP_ENV=local
@@ -66,6 +68,10 @@ Dashboard e contituida primeiramente pro cadastro de cliente e cadastro de Usuar
         VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 4° - Crie o banco de dados com nome de "Laravel"
+
 5° - Installar o composer "composer install && composer update"
+
 6° - Importar o .sql
+
 7° - Rodar o projeto php artisan serve --port 8000
+
