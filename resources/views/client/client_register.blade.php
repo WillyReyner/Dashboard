@@ -15,6 +15,7 @@
         .form-group[class*=has-icon-].has-icon-lefts .form-select {
             padding-left: 2rem;
         }
+
         .hidden {
             display: none;
         }
@@ -149,11 +150,6 @@
                             <strong>{{ $message }}</strong>
                         </span>
                         @enderror
-                    </div>
-
-
-                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-                        <button class="btn btn-primary btn-lg shadow-lg mt-2">Salvar</button>
                     </div>
                 </form>
                 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
